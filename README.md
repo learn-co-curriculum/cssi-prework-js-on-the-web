@@ -59,4 +59,4 @@ Try selecting other HTML elements on the page and updating their text! What happ
 
 The selector syntax - $() - and the .text() method actually aren't part of the JavaScript baked into the browser. They actually come from the **jQuery library** - a big, commonly used set of useful JavaScript functions. In order to use this syntax on our pages, we'll need to link up to a JavaScript library.
 
-Manipulating web pages is the bread and butter of jQuery. You will learn exactly what jQuery is ad how it works in the next series of lessons.
+Manipulating web pages is the bread and butter of jQuery. You will learn exactly what jQuery is and how it works in the next series of lessons.
