@@ -1,8 +1,4 @@
----
-tags: cssi, javascript, jquery
-level: 2
-languages: javascript
----
+
 # JavaScript on the Web
 After this lesson, you'll be able to understand:
 + The browser represents html pages with the document object model (DOM)
